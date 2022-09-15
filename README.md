@@ -4,6 +4,8 @@ NRC is the **Nomics Request for Comment** Standard inspired by Ethereums Request
 
 > This standards can be used for implementing EVMs Smart Contracts into the Nomics Bridgechain Typescript Node by injecting a plugin into the Delegate's Node.
 
+> Original Code Reference by [OpenZepplin](https://github.com/OpenZeppelin/openzeppelin-contracts)
+
 ## Development
 
 > This repository is developed with Typescript
